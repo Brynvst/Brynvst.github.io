@@ -3796,8 +3796,8 @@ input, select, textarea {
 			}
 
 				.wrapper.spotlight .image img {
-					border-radius: 55%;
-					width: 55%;
+					border-radius: 100%;
+					width: 100%;
 				}
 
 			.wrapper.spotlight .content {
