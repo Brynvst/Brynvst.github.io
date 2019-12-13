@@ -3801,7 +3801,7 @@ input, select, textarea {
 				}
 
 			.wrapper.spotlight .content {
-				width: 135%;
+				width: 100%;
 				-ms-flex: 2;
 			}
 
