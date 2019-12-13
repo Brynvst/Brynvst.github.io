@@ -31,7 +31,7 @@ footer, header, hgroup, menu, nav, section {
 
 body {
 	line-height: 1;
-}
+    }
 
 ol, ul {
 	list-style: none;
@@ -247,7 +247,7 @@ input, select, textarea {
 	}
 
 	p {
-		margin: 0 0 2em 0;
+		margin: .5em;
 	}
 
 	h1, h2, h3, h4, h5, h6 {
@@ -271,6 +271,7 @@ input, select, textarea {
 
 		h1.major, h2.major, h3.major, h4.major, h5.major, h6.major {
 			padding-bottom: 1em;
+            padding-left: 1em;
 			border-bottom: solid 2px rgba(255, 255, 255, 0.125);
 		}
 
@@ -3799,7 +3800,7 @@ input, select, textarea {
 
 			.wrapper.spotlight .image {
 				border-radius: 50%;
-				margin: 0 3em 2em 0;
+				margin: 1em;
 				overflow: hidden;
 				-ms-flex: 1;
 			}
@@ -3812,8 +3813,7 @@ input, select, textarea {
 
 				.wrapper.spotlight .imageSoundcloud {
 					border-radius: 50%;
-				margin: 0 3em 2em 0;
-				-ms-flex: 1;
+				margin: 2em;
 				}
 
                 .wrapper.spotlight .imageSoundcloud img {
